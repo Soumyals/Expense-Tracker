@@ -1,0 +1,2 @@
+This project presents an Expense Tracking System designed to help users effectively track and manage their expenses. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), this application provides a user-friendly interface for recording, categorizing, and analyzing expenses. 
+The project showcases my expertise in full-stack development, database management, and agile development methodologies.
